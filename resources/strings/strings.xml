@@ -1,0 +1,30 @@
+<resources>
+    <string id="AppName">Tasks</string>
+    <string id="Empty">No tasks</string>
+    <string id="EmptyHint">Add them in app settings</string>
+    <string id="Done">Done</string>
+    <string id="Todo">To do</string>
+    <string id="ClearDone">Clear done</string>
+    <string id="Hint">Tap or Select</string>
+    <string id="Support">Free app. Support the author (optional)</string>
+    <string id="Task1">Task 1</string>
+    <string id="Note1">Note 1</string>
+    <string id="Task2">Task 2</string>
+    <string id="Note2">Note 2</string>
+    <string id="Task3">Task 3</string>
+    <string id="Note3">Note 3</string>
+    <string id="Task4">Task 4</string>
+    <string id="Note4">Note 4</string>
+    <string id="Task5">Task 5</string>
+    <string id="Note5">Note 5</string>
+    <string id="Task6">Task 6</string>
+    <string id="Note6">Note 6</string>
+    <string id="Task7">Task 7</string>
+    <string id="Note7">Note 7</string>
+    <string id="Task8">Task 8</string>
+    <string id="Note8">Note 8</string>
+    <string id="Task9">Task 9</string>
+    <string id="Note9">Note 9</string>
+    <string id="Task10">Task 10</string>
+    <string id="Note10">Note 10</string>
+</resources>

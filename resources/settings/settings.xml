@@ -1,0 +1,67 @@
+<resources>
+    <settings>
+        <setting propertyKey="@Properties.task1" title="@Strings.Task1">
+            <settingConfig type="alphaNumeric" />
+        </setting>
+        <setting propertyKey="@Properties.note1" title="@Strings.Note1">
+            <settingConfig type="alphaNumeric" />
+        </setting>
+        <setting propertyKey="@Properties.task2" title="@Strings.Task2">
+            <settingConfig type="alphaNumeric" />
+        </setting>
+        <setting propertyKey="@Properties.note2" title="@Strings.Note2">
+            <settingConfig type="alphaNumeric" />
+        </setting>
+        <setting propertyKey="@Properties.task3" title="@Strings.Task3">
+            <settingConfig type="alphaNumeric" />
+        </setting>
+        <setting propertyKey="@Properties.note3" title="@Strings.Note3">
+            <settingConfig type="alphaNumeric" />
+        </setting>
+        <setting propertyKey="@Properties.task4" title="@Strings.Task4">
+            <settingConfig type="alphaNumeric" />
+        </setting>
+        <setting propertyKey="@Properties.note4" title="@Strings.Note4">
+            <settingConfig type="alphaNumeric" />
+        </setting>
+        <setting propertyKey="@Properties.task5" title="@Strings.Task5">
+            <settingConfig type="alphaNumeric" />
+        </setting>
+        <setting propertyKey="@Properties.note5" title="@Strings.Note5">
+            <settingConfig type="alphaNumeric" />
+        </setting>
+        <setting propertyKey="@Properties.task6" title="@Strings.Task6">
+            <settingConfig type="alphaNumeric" />
+        </setting>
+        <setting propertyKey="@Properties.note6" title="@Strings.Note6">
+            <settingConfig type="alphaNumeric" />
+        </setting>
+        <setting propertyKey="@Properties.task7" title="@Strings.Task7">
+            <settingConfig type="alphaNumeric" />
+        </setting>
+        <setting propertyKey="@Properties.note7" title="@Strings.Note7">
+            <settingConfig type="alphaNumeric" />
+        </setting>
+        <setting propertyKey="@Properties.task8" title="@Strings.Task8">
+            <settingConfig type="alphaNumeric" />
+        </setting>
+        <setting propertyKey="@Properties.note8" title="@Strings.Note8">
+            <settingConfig type="alphaNumeric" />
+        </setting>
+        <setting propertyKey="@Properties.task9" title="@Strings.Task9">
+            <settingConfig type="alphaNumeric" />
+        </setting>
+        <setting propertyKey="@Properties.note9" title="@Strings.Note9">
+            <settingConfig type="alphaNumeric" />
+        </setting>
+        <setting propertyKey="@Properties.task10" title="@Strings.Task10">
+            <settingConfig type="alphaNumeric" />
+        </setting>
+        <setting propertyKey="@Properties.note10" title="@Strings.Note10">
+            <settingConfig type="alphaNumeric" />
+        </setting>
+        <setting propertyKey="@Properties.support" title="@Strings.Support">
+            <settingConfig type="alphaNumeric" readonly="true" />
+        </setting>
+    </settings>
+</resources>

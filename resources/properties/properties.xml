@@ -1,0 +1,25 @@
+<resources>
+    <properties>
+        <property id="task1" type="string">Example task 1</property>
+        <property id="note1" type="string">A longer description of the first task, visible on the detail screen.</property>
+        <property id="task2" type="string">Example task 2</property>
+        <property id="note2" type="string">Edit tasks and notes in the app settings on your phone.</property>
+        <property id="task3" type="string">Example task 3</property>
+        <property id="note3" type="string"></property>
+        <property id="task4" type="string"></property>
+        <property id="note4" type="string"></property>
+        <property id="task5" type="string"></property>
+        <property id="note5" type="string"></property>
+        <property id="task6" type="string"></property>
+        <property id="note6" type="string"></property>
+        <property id="task7" type="string"></property>
+        <property id="note7" type="string"></property>
+        <property id="task8" type="string"></property>
+        <property id="note8" type="string"></property>
+        <property id="task9" type="string"></property>
+        <property id="note9" type="string"></property>
+        <property id="task10" type="string"></property>
+        <property id="note10" type="string"></property>
+        <property id="support" type="string">patreon.com/cw/DevStudyLab</property>
+    </properties>
+</resources>
