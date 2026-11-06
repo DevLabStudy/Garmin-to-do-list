@@ -1,21 +1,33 @@
-MIT License
+DEVLABSTUDY SOURCE-AVAILABLE MOD-FRIENDLY LICENSE (DSAL-MOD-1.0)
+Copyright (c) 2026 Tobiasz Kajzer (DevLabStudy)
+All rights reserved.
 
-Copyright (c) 2026 Tobiasz
+Zasady korzystania z oprogramowania, kodu źródłowego oraz narzędzi wchodzących 
+w skład niniejszego projektu (zwanego dalej "Oprogramowaniem").
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. UDZIELENIE LICENCJI (DOZWOLONY UŻYTEK)
+Użytkownik otrzymuje prawo do:
+- Przeglądania, analizowania, studiowania oraz modyfikowania kodu źródłowego 
+  na własny użytek (do celów edukacyjnych, prywatnych i niekomercyjnych).
+- Uruchamiania i korzystania z oryginalnych lub zmodyfikowanych wersji Oprogramowania 
+  w środowisku domowym.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+2. WARUNKI MODYFIKACJI I ZAKAZY KOMERCYJNE
+- Wszelkie modyfikacje kodu źródłowego mogą być wykorzystywane wyłącznie lokalnie 
+  lub prywatnie. Publikowanie zmodyfikowanych wersji w publicznych repozytoriach 
+  wymaga wyraźnej zgody Autora.
+- Bez uprzedniej, pisemnej zgody Autora (Tobiasz Kajzer / DevLabStudy) ZABRANIA SIĘ:
+  a) Wykorzystywania Oprogramowania (lub jego zmodyfikowanych wersji) w jakiejkolwiek 
+     działalności komercyjnej, zarobkowej lub biznesowej.
+  b) Oferowania Oprogramowania jako usługi w chmurze (SaaS), API commercial lub 
+     zarządzanego hostingu komercyjnego.
+  c) Sprzedaży, redystrybucji lub sublicencjonowania Oprogramowania w celach zarobkowych.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+3. INFORMACJE O AUTORZE
+Każda kopia Oprogramowania lub jego fragmentu musi zawierać niniejszą informację 
+o prawach autorskich oraz wskazanie Autora (Tobiasz Kajzer / DevLabStudy).
+
+4. BRAK GWARANCJI
+Oprogramowanie jest dostarczane w stanie takim, w jakim jest ("AS IS"), 
+bez jakiejkolwiek gwarancji. Autor nie ponosi odpowiedzialności za szkody wynikłe 
+z jego użytkowania.
